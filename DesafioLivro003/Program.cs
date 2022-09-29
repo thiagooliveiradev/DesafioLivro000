@@ -11,4 +11,5 @@ var impostos = salarioBruto * 7 / 100;
 
 var salarioLiquido = salarioBruto + gratificacao - impostos;
 
-Console.WriteLine($"O salário a receber do funcionário é {salarioLiquido}");
+Console.WriteLine($"O salário a receber do funcionário é {salarioLiquido}, sua gratificação total foi {gratificacao} e o total de impostos retidos na fonte foram {impostos}");
+
