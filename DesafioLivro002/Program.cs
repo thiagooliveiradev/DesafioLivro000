@@ -7,4 +7,4 @@ int novoSalario = int.Parse(salarioAtual);
 
 var promocao = novoSalario + novoSalario * 25 / 100;
 
-Console.WriteLine($"Parabéns pela promoção seu novo salario é: {promocao}");
+Console.WriteLine($"Parabéns pela promoção seu novo salario é: {promocao}, seu antigo salario era {novoSalario} e teve um aumento de 25%");
