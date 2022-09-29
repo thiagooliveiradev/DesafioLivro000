@@ -20,7 +20,7 @@ if (media < 6)
     Console.WriteLine($"O resultado da média do aluno é {media}, REPROVADO!");
 }
 
-else if (media >= 6)
+else 
 {
     Console.WriteLine($"O resultado da média do aluno é {media}, APROVADO!");
 }
