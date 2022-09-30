@@ -5,13 +5,15 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioLivro000", "DesafioLivro000\DesafioLivro000.csproj", "{11AC01F5-4B02-4CC7-BE98-10DF0725D2DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioLivro001", "DesafioLivro001\DesafioLivro001.csproj", "{F615BE19-A1BF-4D99-8BFD-AA17B7AA7572}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioLivro001", "DesafioLivro001\DesafioLivro001.csproj", "{F615BE19-A1BF-4D99-8BFD-AA17B7AA7572}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioLivro002", "DesafioLivro002\DesafioLivro002.csproj", "{A1352F32-BCA8-4F4D-A0AB-9A828F4F0E98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioLivro002", "DesafioLivro002\DesafioLivro002.csproj", "{A1352F32-BCA8-4F4D-A0AB-9A828F4F0E98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioLivro003", "DesafioLivro003\DesafioLivro003.csproj", "{4A700611-1CAE-4062-970C-8F86743B40AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioLivro003", "DesafioLivro003\DesafioLivro003.csproj", "{4A700611-1CAE-4062-970C-8F86743B40AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioLivro004", "DesafioLivro004\DesafioLivro004.csproj", "{68A35B50-4EBC-4CB5-A371-3C34CCFE3CE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioLivro004", "DesafioLivro004\DesafioLivro004.csproj", "{68A35B50-4EBC-4CB5-A371-3C34CCFE3CE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioLivro006", "DesafioLivro006\DesafioLivro006.csproj", "{2E56D752-D9ED-4A12-99E0-A8087459A02A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioLivro005", "DesafioLivro005\DesafioLivro005.csproj", "{D3F9945F-242A-44EF-9232-19D244CDAAE1}"
 EndProject
