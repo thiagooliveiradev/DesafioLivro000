@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioLivro003", "DesafioL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioLivro004", "DesafioLivro004\DesafioLivro004.csproj", "{68A35B50-4EBC-4CB5-A371-3C34CCFE3CE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioLivro005", "DesafioLivro005\DesafioLivro005.csproj", "{D3F9945F-242A-44EF-9232-19D244CDAAE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{68A35B50-4EBC-4CB5-A371-3C34CCFE3CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68A35B50-4EBC-4CB5-A371-3C34CCFE3CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68A35B50-4EBC-4CB5-A371-3C34CCFE3CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F9945F-242A-44EF-9232-19D244CDAAE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F9945F-242A-44EF-9232-19D244CDAAE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F9945F-242A-44EF-9232-19D244CDAAE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F9945F-242A-44EF-9232-19D244CDAAE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
